@@ -5,9 +5,9 @@
   "author": "<Fukushima Satoshi>",
   "cover": "<mangacoverurl.jpg>",
   "chapters": {
-    "<1>": {
+    "1": {
       "title": "<Previous Life>",
-      "volume": "<1>",
+      "volume": "1",
       "groups": {
         "<Heiderauche>": "/proxy/api/imgur/chapter/<stardust-nina-01-efm3iyv>/"
       },
